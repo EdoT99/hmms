@@ -1,0 +1,1 @@
+This repo contains all scripts and pieces of sofware to pre-process sequences, build MSA and finally build an HMM model

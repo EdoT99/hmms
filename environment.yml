@@ -1,0 +1,20 @@
+name: hmms-build
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  # Python core packages
+  - python=3.10
+  - pandas
+  - matplotlib
+  - logomaker
+  - biopython
+
+  # Bioinformatics tools
+  - hmmer
+  - mafft
+  - weblogo
+
+  # Optional: use pip for PyPI-only packages
+  - pip
