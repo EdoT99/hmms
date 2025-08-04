@@ -10,6 +10,7 @@ dependencies:
   - matplotlib
   - logomaker
   - biopython
+  - prody
 
   # Bioinformatics tools
   - hmmer
